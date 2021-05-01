@@ -2,6 +2,6 @@ A gym like simulation environment for Oil Spill area Estimation with Multi Agent
 
 DDPG is used to train a swarm of 5 UAV (simulated) to encompass ans estimate an Oil Spill of area nearly 4k.m^2. 
 
-Framework : Tensorflow 2.0
+Framework : Pytorch
 
-Additional Requirement: netCDF4,numba
+Additional Requirement: netCDF4,numba,pygame
