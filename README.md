@@ -5,3 +5,5 @@ DDPG is used to train a swarm of 5 UAV (simulated) to encompass ans estimate an 
 Framework : Pytorch
 
 Additional Requirement: netCDF4,numba,pygame
+
+File to run : ddpg-env-train_v2.py
